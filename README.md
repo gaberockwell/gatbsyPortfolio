@@ -1,6 +1,10 @@
-Netlify Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc87709a-43c0-4b13-b059-4ed43fe63c31/deploy-status)](https://app.netlify.com/sites/grockwell/deploys)
+<p align="center">
+  <a href="https://gabrielrockwell.com">
+    <img alt="gabrielrockwell.com" src="#" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Portfolio of Gabriel Rockwell
+</h1>
 
-GWEST.GQ
-Portfolio of Gabriel West
-
-This is a behind the scenes view of my portfolio, for those interested in the code used to construct the site. Built with GatsbyJS, hosted on Netlify. For anyone interested in contacting me for a project, my information can be found on my site.
